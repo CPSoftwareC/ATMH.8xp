@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.0 -->
+<!-- README.md Versão 1.1 -->
 <h1>Prgm ATMH (<strong><em>Átomo H</em></strong>)</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/ATMH.8xp/total?style=plastic)
 
 <h3>Biografia</h3>
 
