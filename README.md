@@ -1,49 +1,43 @@
-<!-- README.md Versão 1.1 -->
-<h1>Prgm ATMH (<strong><em>Átomo H</em></strong>)</h1>
+# Prgm ATMH (_Átomo H_)
 
-![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/ATMH.8xp/total?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/ATMH.8xp/total?label=Downloads&style=plastic)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em TI-BASIC. Programa sobre a fórmula da Energia dos níveis do átomo de H. "<em>En=-2.179E-18/n^2</em>". Usado para auxiliar no estudo da "Energia dos eletrões nos átomos", Química de 10º ano.</p>
+Desenvolvido em TI-BASIC. Programa sobre a fórmula da Energia dos níveis do átomo de H. _"En=-2.179E-18/n^2"_. Usado para auxiliar no estudo da _"Energia dos eletrões nos átomos"_, Química de 10º ano
 
-<h2>Versão <em><strong>3.1</strong></em></h2>
+## Versão _3.1_
 
-<h3>Compatibilidade</h3>
+### Compatibilidade
 
-<ul>
- <li>TI-84 Plus CE</li>
- <li>TI-84 Plus CE-T</li>
- <li>TI-84 Plus CE-T Python Edition</li>
- <li>TI-84 Plus C Silver Edition</li>
- <li>TI-83 Premium CE</li>
- <li>TI-83 Premium CE Edition Python</li>
-</ul>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
-<h3>Como instalar</h3>
+### Como instalar
 
-<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>ATMH.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<p> E agora já tens o <em>ATMH</em> na tua calculadora</p>
+1. Conecta a tua calculadora e abre o TI Connect CE
+2. Envia o _ATMH.8xp_
+3. Escolhe a tua calculadora
+4. E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<h3>Como executar</h3>
+E agora já tens o _ATMH_ na tua calculadora
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>ATMH</em></p>
+### Como executar
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>math</kbd></li>
-     <li>E selecionar o <em>ATMH</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _ATMH_
 
-<h2>Programador: <strong><em>HS</em></strong></h2>
-<h3>Atualizador: <strong><em>J.C.P.</em></strong></h3>
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>math</kbd>
+3. Selecionar o _ATMH_
+4. E por último pressionar <kbd>enter</kbd>
 
-<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+## Programador: _HS_
+### Atualizador: _J.C.P._
+
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
